@@ -1,6 +1,6 @@
 
 # Uiversidad Tecnologica de la Sierra hidalguense
-# Nombre del proyecto: Conumo de API´s
+# Nombre del proyecto: Consumo de API´s
 ### Nombre del alumno:   Pablo Sebastian Ramos Hernández
 ### Nombre de la materia:  Aplicaciones Web Orientada a Servicios
 ### Grado:   Cuarto cuatrimestre
